@@ -10,30 +10,32 @@ diagonise them by using proper drugs.
 
 * To determine the statistics of AIDS affected people in the world.
 it contains two groups of people : 
-1.people of age 0 to 18(child)
-2.people of age 18 to 45 (aduts)
 
-* Mother to child probability of transmitting HIV
+1.people of age 0 to 18(childs)
 
-* Cause of spreading HIV worldwide
+2.people of age 18 to 45 (adults).
 
-* Avarage life span of a HIV affected child/adult
+* Mother to child probability of transmitting HIV.
 
-* Effectivity of ART drugs to AIDS treatment
+* Cause of spreading HIV worldwide.
 
-* Suicidal case detection for HIV
+* Avarage life span of a HIV affected child/adult.
 
-* Detection of AIDS via PCR and RAT
+* Effectivity of ART drugs to AIDS treatment.
 
-* Death rate of HIV affected people
+* Suicidal case detection for HIV.
 
-* T4 level during HIV
+* Detection of AIDS via PCR and RAT.
+
+* Death rate of HIV affected people.
+
+* T4 level during HIV.
 
 * Proper diet to prevent HIV in early stages.
 
-* Increase avarage lifespan of HIV affected people
+* Increase avarage lifespan of HIV affected people.
 
-* Cause of death of the patients affected with HIV
+* Cause of death of the patients affected with HIV.
 
 
 
