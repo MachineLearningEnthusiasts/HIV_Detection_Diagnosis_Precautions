@@ -6,7 +6,7 @@ diagonise them by using proper drugs.
 
 
 
-## Keypoints/aim of the project 
+## Key-points/Aim of the project 
 
 * To determine the statistics of AIDS affected people in the world.
 it contains two groups of people : 
