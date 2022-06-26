@@ -8,7 +8,7 @@ diagonise them by using proper drugs.
 
 ## Keypoints/aim of the project 
 
-* To determine the statistics of aids affected people in the world.
+* To determine the statistics of AIDS affected people in the world.
 it contains two groups of people : 
 1.people of age 0 to 18(child)
 2.people of age 18 to 45 (aduts)
@@ -17,11 +17,11 @@ it contains two groups of people :
 
 * Cause of spreading HIV worldwide
 
-* Avarage live of a HIV affected child/adult
+* Avarage life span of a HIV affected child/adult
 
 * Effectivity of ART drugs to AIDS treatment
 
-* suicidal case detection for HIV
+* Suicidal case detection for HIV
 
 * Detection of AIDS via PCR and RAT
 
@@ -29,11 +29,11 @@ it contains two groups of people :
 
 * T4 level during HIV
 
-* proper Diet to prevent HIV in early stages.
+* Proper diet to prevent HIV in early stages.
 
 * Increase avarage lifespan of HIV affected people
 
-* cause of death of the patients affected with HIV
+* Cause of death of the patients affected with HIV
 
 
 
